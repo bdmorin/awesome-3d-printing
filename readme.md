@@ -61,7 +61,8 @@ A curated list of awesome 3D printing resources. Picked up from @adius
 - [PrintRun](https://github.com/kliment/Printrun) - Pure Python 3d printing host software.
 - [Repetier](http://repetier.com) - Place, slice, preview and print.
 - [ReplicatorG](http://replicat.org) - Open source 3D printing program.
-- [Formide](http://printr.com/formide) - Platform to manage multiple printers, multiple users and projects.
+- ~~[Formide](http://printr.com/formide) - Platform to manage multiple printers, multiple users and projects.~~
+  Aquired by Beamler.com
 
 
 ## File Formats
@@ -128,7 +129,7 @@ From 3D printer manufacturer:
 
 - [123D Gallery](http://123dapp.com/Gallery) (from Autodesk)
 - [Thingiverse](https://thingiverse.com) (from Makerbot)
-- [Treasure Island](http://treasure.is) (from Pirate3D)
+- ~~[Treasure Island](http://treasure.is) (from Pirate3D)~~
 - [YouMagine](https://youmagine.com) (from Ultimaker)
 
 Independent:
