@@ -1,4 +1,4 @@
-# Awesome 3D Printing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome 3D Printing [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 A curated list of awesome 3D printing resources. Picked up from @adius
 
