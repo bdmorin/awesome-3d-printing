@@ -1,6 +1,6 @@
 # Awesome 3D Printing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome 3D printing resources.
+A curated list of awesome 3D printing resources. Picked up from @adius
 
 ## Table of Contents
 
@@ -162,6 +162,7 @@ Independent:
 - [BotQueue](https://github.com/Hoektronics/BotQueue) - Control your 3D printers over the internet.
 - [Clara.io](https://clara.io) - Cloud-based 3D modeling, animation and rendering.
 - [gcode.ws](http://gcode.ws) - Gcode analyzer.
+- [Get Anywhere](https://www.getanywhere.io) - public interface to your octoprint instance via a plugin
 - [Lagoa](http://home.lagoa.com) - Create kinematic assemblies, renders and photoreal interactive 3D experiences in the browser.
 - [Meshify](http://meshify.dk) - Convert a 3D model into a 3D printable mesh-like lattice structure.
 - [WeDesign](http://wedesign.live) - Collaborative platform for 3D design.
